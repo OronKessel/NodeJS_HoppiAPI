@@ -1,0 +1,27 @@
+{
+  "name": "com.songu.hoppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oron718@bitbucket.org/gabrielgaravit/hoppibackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/gabrielgaravit/hoppibackend#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "zendesk-node-api": "^1.3.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express-session": "^1.16.2"
+  }
+}
